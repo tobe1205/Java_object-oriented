@@ -24,5 +24,4 @@ public class OthersOOP {
 		f1.write("!!!");
 		f1.close();
 	}
-
 }
